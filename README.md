@@ -11,11 +11,11 @@ And the file we want the user to download at their side are sent by us from a sp
 
 This Project is Independent of GOPATH. As to achieve this and easy to use `Makefile` is present, through which you can make this project run 
 
-follow:-
-`git clone git@github.com:02amanag/upload-and-download-file.git`
-`cd upload-and-download`
-`make build`
-`make run`
+# Steps:-
+1.`git clone git@github.com:02amanag/upload-and-download-file.git`
+2.`cd upload-and-download`
+3.`make build`
+4.`make run`
 
 following the above command in the sequence, your server will be started and visible in the same terminal.
 
