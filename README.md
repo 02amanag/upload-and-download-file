@@ -12,7 +12,7 @@ And the file we want the user to download at their side are sent by us from a sp
 This Project is Independent of GOPATH. As to achieve this and easy to use `Makefile` is present, through which you can make this project run 
 
 follow:-
-`git clone https://github.com/02amanag/upload-and-download-file.git`
+`git clone git@github.com:02amanag/upload-and-download-file.git`
 `cd upload-and-download`
 `make build`
 `make run`
